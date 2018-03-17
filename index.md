@@ -61,7 +61,13 @@ Curent literar-artistic manifestat, pe plan european, la mijlocul secolului XIX-
 ##Clasicismul
 
 ###Definitie:
+Clasicismul este un curent literar care a impus canoane de continut si de forma, promovand interesul pentru natura umana, impunand ordinea, armonia si rigoarea: regula celor trei unitati(de loc, de timp, de actiune) si puritatea genurilor literare.
 
 ###Trasaturi:
-
-#Subiectul III
+- curent rationalist
+- obiectivitatea
+- respectarea normelor de compozitie
+- interesul pentru natura umana
+- idealul imbinarii frumosului cu binele si adevarul, a utilului cu placutul
+- puritatea genurilor, sobrietatea stilului
+- scopul: didactic, moralizator
