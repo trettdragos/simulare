@@ -71,3 +71,12 @@ Clasicismul este un curent literar care a impus canoane de continut si de forma,
 - idealul imbinarii frumosului cu binele si adevarul, a utilului cu placutul
 - puritatea genurilor, sobrietatea stilului
 - scopul: didactic, moralizator
+
+#Subiectul III
+
+- Eminescu: <b>Luceafarul</b> - poezia romantica
+- Costache Negruzzi: <b>Alexandru Lapusneanu</b> -  nuvela romantica
+- Ioan Slavici: <b>Moara cu noroc</b> - nuvela psihologica
+- IL Caragiale: <b>O scrisoare pierduta</b> - comedia
+- Mihail Sadoveanu: <b>Baltagul</b> - romanul realist mitic
+- Mihail Sadoveanu: <b>Hanul Ancutei</b> - povestirea 
