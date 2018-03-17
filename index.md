@@ -2,11 +2,11 @@
 ##Umanismul
 
 ###Definitie:
-Umanismul reprezinta un curent cultural aparut in timpul Renasterii, care are in centruul preocuparilor sale omul si problematica sa, considerand fiinta umana este perfectibila. Idealul uman al Renasterii este omul universal, armonios fizic si intelectual, pasionat de toate formele de cunoastere.
+Umanismul reprezinta un curent cultural aparut in timpul Renasterii, care are in centrul preocuparilor sale omul si problematica sa, considerand ca fiinta umana este perfectibila. Idealul uman al Renasterii este omul universal, armonios fizic si intelectual, pasionat de toate formele de cunoastere.
 
 ###Trasaturi:
 
-- exponentii umanismului romanesc reprezinta tipul curetanului: sunt domnitori sau boieri care detin dregatorii insemnate si intervin in viata politica a tarii, dar de obicei sfarsesc tragic
+- exponentii umanismului romanesc reprezinta tipul curteanului: sunt domnitori sau boieri care detin dregatorii insemnate si intervin in viata politica a tarii, dar de obicei sfarsesc tragic
 - tendinta unor domnitori de a edifica o cultura romaneasca se concretizeaza in dezvoltarea tipografiilor si circulatia tiparitorilor in limba romana
 - carturarii umanisti apartin in cea mai mare parte unor familii boieresti, ceea ce le faciliteaza accesul la o formare intelectualade nivel european
 - manifesta interes pentru cultura antica si cea occidentala
@@ -29,7 +29,7 @@ Romantismul este un curent literar polemic, aparut ca reactie impotriva Rational
 - amestecul genurilor, speciilor si al stilulilor
 - atractia pentru natura, trecutul istoric, folcul local, miturile fantasticului
 - personaje exceptionale in imprejuari exceptionale
-- intiteza inger-demon, trecut-prezent
+- antiteza inger-demon, trecut-prezent
 
 ##Iluminismul
 
@@ -80,3 +80,4 @@ Clasicismul este un curent literar care a impus canoane de continut si de forma,
 - IL Caragiale: <b>O scrisoare pierduta</b> - comedia
 - Mihail Sadoveanu: <b>Baltagul</b> - romanul realist mitic
 - Mihail Sadoveanu: <b>Hanul Ancutei</b> - povestirea 
+- Creanga: <b>Harap-Alb</b> - basmul cult
